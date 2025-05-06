@@ -2,7 +2,7 @@
 # download_geo.sh
 # Usage: ./download_geo.sh [-f] <GSE_accession> <output_dir>
 #
-#   -f    Force overwrite all files (ignore existing and zero-byte checks)
+#   -f    Force overwrite all files
 # Example:
 #   ./download_geo.sh GSE165045 ./data/GSE165045
 #   ./download_geo.sh -f GSE165045 ./data/GSE165045
